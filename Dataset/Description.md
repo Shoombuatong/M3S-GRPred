@@ -1,0 +1,1 @@
+Compounds with pIC50 values between 5 and 6 were considered intermediate and were excluded from this study. Consequently, the final dataset comprised 1,054 active compounds and 212 inactive compounds.
